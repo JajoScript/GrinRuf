@@ -1,0 +1,17 @@
+{
+  "name": "grinruf",
+  "version": "1.0.0",
+  "description": "Aplicación de ciencia urbana",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "react-native"
+  ],
+  "author": "JajoScript",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-native": "^0.71.8"
+  }
+}
